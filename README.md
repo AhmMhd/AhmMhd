@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdul Hakeem
 - 👀 I’m interested in Mobile Application development
-- 🌱 I’m currently learning KMM
+- 🌱 I’m currently learning Jetpack Compose
 - 💞️ I’m looking to collaborate on Android Libraries
 - 📫 ahm.mhd78@gmail.com
 
